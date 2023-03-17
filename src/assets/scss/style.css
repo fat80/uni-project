@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Vazir';
+    src: url('~@/assets/fonts/Vazir.ttf') format('truetype');
+}
+
+.maincard {
+    color: blueviolet;
+    background-color: brown;
+}
